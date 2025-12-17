@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.class-one {
+  background-color: rgb(3, 3, 3);
+  color: rgb(243, 238, 238);
+}
+
+.class-two {
+  background-color: hsl(60, 100%, 50%);
+}
+
+.shared-class {
+  font-weight: bold;
+}
